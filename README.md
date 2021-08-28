@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Petster
-
-Web Developer 
-Associates in Web Application Development
-In Bachelors Program for Software Development at Bellevue University
+# 👋 Hi, I’m Jason Palmeri
+- 💻 Web Developer 
+- 📜 Associates in Web Application Development
+- 🏫 Bellevue University
+- [Website](https://petstergaming.com)
