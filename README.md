@@ -2,4 +2,4 @@
 - 💻 Web Developer 
 - 📜 Associates in Web Application Development
 - 🏫 Bellevue University
-- [Website](https://petstergaming.com)
+- [Portfolio](https://portfolio.petstergaming.com)
