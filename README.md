@@ -14,15 +14,15 @@
 - 👨‍💻 All of my projects are available at [https://portfolio.petstergaming.com](https://portfolio.petstergaming.com)
 
 - 📝 I regularly write articles on https://petstergaming.com/ [Blog Coming Soon]
-- 
+  
 - 📄 Know about my experiences [https://portfolio.petstergaming.com](https://portfolio.petstergaming.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/petsterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="petsterr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jasontpalmeri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasontpalmeri" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/petster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="petster" height="30" width="40" /></a>
-<a href="https://instagram.com/petster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="petster" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7823630" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="petster" height="30" width="40" /></a>
+<a href="https://instagram.com/petster12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="petster" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/petstergaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="petstergaming" height="30" width="40" /></a>
 </p>
 
