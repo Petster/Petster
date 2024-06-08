@@ -28,3 +28,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petster&show_icons=true&locale=en&layout=compact" alt="petster" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petster&show_icons=true&locale=en" alt="petster" /></p>
+
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://cdn.discordapp.com/attachments/903828993629896719/1248884432706998302/1811ec711c25575b5eeb62e84ff24878ee334159d3d9f3aba3101d024d30d7ff.png?ex=666549c3&is=6663f843&hm=7c496bd8f7958385f1fe5d5036aa3d2c34fa90f55df25ebf1d1ab9e79258acd4&?raw=true');]{x0000}$}
