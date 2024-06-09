@@ -28,8 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=petster&show_icons=true&locale=en&layout=compact" alt="petster" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petster&show_icons=true&locale=en" alt="petster" /></p>
-
-## the end of an era 
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Petster/Petster/blob/main/onepiece.png?raw=true');]{x0000}$}
